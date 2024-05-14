@@ -1,4 +1,4 @@
-# Typescript Boilerplate
+# Martian Robots Kata 
 
 Created using [create-mf-app](https://github.com/jherr/create-mf-app)
 
